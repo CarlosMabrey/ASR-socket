@@ -2,7 +2,8 @@ import socket
 from time import sleep
 
 # Server's IP address and port
-server_ip = '10.0.6.126'
+#server_ip = '10.0.6.126'
+server_ip = '10.0.5.70'
 server_port = 9999
 
 # Create a socket object
